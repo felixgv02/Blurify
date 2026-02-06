@@ -1,0 +1,5 @@
+{
+  "name": "Blurify - Privacy Redaction Tool",
+  "description": "Securely blur sensitive information in images and text files directly in your browser without any external processing.",
+  "requestFramePermissions": []
+}
